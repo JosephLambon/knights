@@ -1,5 +1,5 @@
 # Knights
->### (CS50AI) Week 1, Coursework 1
+>### (CS50AI) Week 1 - Coursework 1
 
 ## Contents
 1. [Project Synopsis](#project_synopsis)
